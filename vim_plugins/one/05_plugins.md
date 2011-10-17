@@ -10,9 +10,8 @@
 
 !SLIDE incremental
 # Command-T #
-* ^j
-* ^k
-* <ENTER>
+* ^j ^k
+* &lt;ENTER&gt;
 
 !SLIDE incremental
 # fugitive.vim #

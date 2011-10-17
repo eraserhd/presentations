@@ -1,10 +1,10 @@
-!SLIDE bullet incremental
+!SLIDE incremental
 # Normal Layout #
 
 * ~/.vimrc
 * ~/.vim/
 
-!SLIDE bullet incremental
+!SLIDE incremental
 # Contents of ~/.vim/ #
 
 * plugin

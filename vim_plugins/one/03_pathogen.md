@@ -1,7 +1,7 @@
 !SLIDE
 # pathogen.vim #
 
-!SLIDE bullets incremental
+!SLIDE incremental
 # Pathogen Layout #
 * ~/.vim/autoload/pathogen.vim
 * ~/.vim/bundle/plugin-1/ ...
@@ -13,5 +13,5 @@
 * Copy pathogen.vim into ~/.vim/autoload
 * Put the following in vimrc:
   
-  call pathogen#infect()
+    call pathogen#infect()
 
